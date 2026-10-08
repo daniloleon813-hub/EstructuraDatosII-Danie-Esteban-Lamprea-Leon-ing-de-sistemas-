@@ -1,0 +1,18 @@
+Utiliza una estructura jerárquica porque una carpeta puede contener
+archivos y otras carpetas. Esto genera diferentes niveles dentro de
+la estructura.
+
+### Organigrama empresarial
+
+Utiliza una estructura jerárquica porque existen relaciones entre
+superiores y subordinados.
+
+### Menú de una aplicación
+
+Utiliza una estructura jerárquica porque una opción principal puede
+contener diferentes submenús y opciones.
+
+### Árbol genealógico
+
+Utiliza una estructura jerárquica porque existen relaciones entre
+padres, hijos y descendientes.

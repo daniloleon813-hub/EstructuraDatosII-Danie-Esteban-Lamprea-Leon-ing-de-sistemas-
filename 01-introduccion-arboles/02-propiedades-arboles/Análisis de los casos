@@ -1,19 +1,7 @@
-Utiliza una estructura jerárquica porque una carpeta puede contener
-archivos y otras carpetas. Esto genera diferentes niveles dentro de
-la estructura.
+1.Sistema de archivos: representa la organización de carpetas y archivos dentro de un computador.
 
-### Organigrama empresarial
+2.Organigrama empresarial: muestra los niveles de autoridad y las áreas que conforman una empresa.
 
-Utiliza una estructura jerárquica porque existen relaciones entre
-superiores y subordinados.
+3.Menú de una aplicación: organiza las opciones principales y sus respectivas subopciones.
 
-### Menú de una aplicación
-
-Utiliza una estructura jerárquica porque una opción principal puede
-contener diferentes submenús y opciones.
-
-### Árbol genealógico
-
-Utiliza una estructura jerárquica porque existen relaciones entre
-padres, hijos y descendientes.
-
+4.Árbol genealógico: representa las relaciones familiares entre abuelos, padres e hijos.
